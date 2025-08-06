@@ -11,7 +11,7 @@ A responsive and interactive **Quiz Application** built with **React.js**. This 
 - ✅ Instant feedback for correct and incorrect answers
 - 📊 Score tracking across the quiz
 - 🔁 Reset quiz to play again
-- 💻 Responsive design for desktop and mobile<img 
+- 💻 Responsive design for desktop and mobile
 
 - 🎨 Smooth UI with modern CSS animations
 
