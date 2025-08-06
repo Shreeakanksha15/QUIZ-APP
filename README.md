@@ -22,5 +22,4 @@ A responsive and interactive **Quiz Application** built with **React.js**. This 
 - **HTML5 & CSS3 – Styling & layout
 - **JavaScript (ES6+) – Logic & interactivity
 
-git clone https://github.com/your-username/quiz-app.git
-cd quiz-app
+
